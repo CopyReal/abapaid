@@ -1,4 +1,5 @@
-# **Features**
+# **Anime Battle Arena Paid Features**
+## Automatically Saves Settings
 
 ### Main
 * Select Target (Player, Nearest Player & Lowest Health Player)
@@ -30,6 +31,7 @@
 * Auto Skills (1,2,3,4,G)
 
 ### Config For Attacks
+- Skill Order
 * Select 1st Skill Order
 * Select 2nd Skill Order
 * Select 3rd Skill Order
@@ -44,6 +46,10 @@
 * Use Skill 2 within studs
 * Use Skill 3 within studs
 * Use Skill 4 within studs
+- Lock On Configuration
+* Above (Y)
+* Below (X)
+* Positive: LEFT / Negative: Right (Z)
 
 ### Pro Server Sniper
 * Select Level (23+,28+,30+,40+,45+,50+,67+,80+,100+)
