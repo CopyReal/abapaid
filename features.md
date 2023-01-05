@@ -46,6 +46,7 @@
 * Use Skill 2 within studs
 * Use Skill 3 within studs
 * Use Skill 4 within studs
+
 [ Lock On Configuration ]
 * Above (Y)
 * Below (X)
