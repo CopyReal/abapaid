@@ -31,7 +31,7 @@
 * Auto Skills (1,2,3,4,G)
 
 ### Config For Attacks
-- Skill Order
+[ Skill Order ]
 * Select 1st Skill Order
 * Select 2nd Skill Order
 * Select 3rd Skill Order
@@ -46,7 +46,7 @@
 * Use Skill 2 within studs
 * Use Skill 3 within studs
 * Use Skill 4 within studs
-- Lock On Configuration
+[ Lock On Configuration ]
 * Above (Y)
 * Below (X)
 * Positive: LEFT / Negative: Right (Z)
