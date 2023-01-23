@@ -11,6 +11,7 @@
 * God Mode (Cant use skills)
 * Anti-AFK
 * Admin/Mod Detector (Kick)
+* Spectate Player
 * Auto Air Combo
 * Auto Ground Slam (Not In Air)
 * Auto Skills (1,2,3,4,G)
@@ -67,12 +68,13 @@
 * Time Elapsed
 * Game Version
 * Total Players In Server
+* Match Timer
 * Rejoin Server
 * Server Hop
 
 ### Misc
 * Webhook 
-* Match Stats Notifier (Lvl, Money, Etc)
+* Match Stats Notifier (Lvl, Money, Points, Dmg, Etc)
 * Select Emote
 * Auto Emote
 * Boost FPS
