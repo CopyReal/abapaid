@@ -73,6 +73,11 @@
 * Server Hop
 
 ### Misc
+* ESP Toggle
+* Player ESP
+* Tracers
+* Boxes
+* Face Camera
 * Webhook 
 * Match Stats Notifier (Lvl, Money, Points, Dmg, Etc)
 * Select Emote
