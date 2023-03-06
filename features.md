@@ -71,6 +71,10 @@
 * Match Timer
 * Rejoin Server
 * Server Hop
+* Enter Job ID
+* Join Job ID
+* Show Job ID
+* Copy Job ID
 
 ### Misc
 * ESP Toggle
