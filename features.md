@@ -53,6 +53,10 @@
 * Below (X)
 * Positive: LEFT / Negative: Right (Z)
 
+### Auto Rejoin Pro Server 
+* Select Pro Server Level (23+,28+,30+,40+,45+,50+,67+,80+,100+)
+* Auto Rejoin Pro Server
+
 ### Pro Server Sniper
 * Select Level (23+,28+,30+,40+,45+,50+,67+,80+,100+)
 * Random Pro Server
@@ -69,6 +73,7 @@
 * Game Version
 * Total Players In Server
 * Match Timer
+* Pro Server Info (Name & Level)
 * Rejoin Server
 * Server Hop
 * Enter Job ID
