@@ -1,4 +1,5 @@
 # Features - ABA PAID 
+### - Script Showcase - https://www.youtube.com/watch?v=RFD7OTvD_V4
 #### - Discord Server - https://discord.com/invite/jkscZr4wxw  
 #### - Visit <#how to buy> & <#vouches>
 
@@ -106,6 +107,10 @@
 - Positive: LEFT / Negative: RIGHT (Z) 
 
 ### Pro Server Sniper 
+[ Auto Rejoin Pro Server ] 
+- Select Pro Server (All Levels)
+- Auto Rejoin Pro Server
+
 [ Select Level ] 
 - Level 23+ Pro Server
 - Level 28+ Pro Server
