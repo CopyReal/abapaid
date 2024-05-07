@@ -1,7 +1,7 @@
 # Features - ABA PAID 
 #### - Script Showcase - https://www.youtube.com/watch?v=RFD7OTvD_V4
 #### - Discord Server - https://discord.com/invite/jkscZr4wxw  
-#### - Visit <#how to buy> & <#vouches>
+#### - Visit <#how-to-buy> & <#feedbacks>
 
 ### Main
 [ Advanced Auto Play ] 
